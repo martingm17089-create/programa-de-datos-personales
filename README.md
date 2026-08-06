@@ -1,2 +1,2 @@
 # sistema-contable
-pide datos como altura ,edad
+pide datos como nombre, especie, edad, genero, raza 
