@@ -1,2 +1,2 @@
 # sistema-contable
-pide datos como nombre, especie, edad, genero, raza 
+El código define la clase Animales con atributos (nombre, especie, edad, género y raza) y métodos que imprimen acciones simuladas como correr, jugar o comer.
