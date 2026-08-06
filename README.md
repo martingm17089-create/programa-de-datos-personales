@@ -1,2 +1,2 @@
-# programa-de-datos-personales
+# sistema-contable
 pide datos como altura ,edad
